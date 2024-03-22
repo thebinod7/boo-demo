@@ -1,0 +1,11 @@
+===Part 1===
+- Connect in memory mongodb server ✅
+- Post profile data to mongodb ✅
+- Get profile data from mongodb ✅
+
+===Part 2===
+- Voting
+- Commenting
+
+===Part 3===
+- Add automated tests for Part 1 and Part 2 ✅
